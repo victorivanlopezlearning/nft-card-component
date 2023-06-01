@@ -19,7 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [victorivanlopezlearning](https://github.com/victorivanlopezlearning/nft-preview-card-component)
+- Solution URL: [victorivanlopezlearning](https://www.frontendmentor.io/solutionsnft-preview-card-component-vanilla-css-bem-mQxAbxU4LF)
 - Live Site URL: [victorivanlopez/nft-card-component](https://victorivanlopezlearning.github.io/nft-card-component/)
 
 ### Built with
